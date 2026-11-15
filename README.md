@@ -1,5 +1,4 @@
-# Digi Org Twin
+# Organisation OCP
 
-Application web autonome (PWA, 100 % statique) issue de l'artefact Claude « Digi Org Twin ».
-Hébergée via GitHub Pages ; les données sont conservées dans le navigateur (`localStorage`),
-l'export du référentiel Excel télécharge un fichier `.xlsx`.
+Application web statique (PWA) : organigramme OCP avec entités, comités, missions et task forces,
+et une fiche descriptive par entité. Hébergée via GitHub Pages, sans serveur ni stockage.
